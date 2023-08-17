@@ -5,7 +5,10 @@
 - [ ] Stop Timer Button
 - [ ] Rests Timer Button
 - [ ] A simple display
-![Alt text](image.png)
+      
+<p align="center">
+  <img src="image.png" alt="Alt text">
+</p>
 
 ## What we have done
 
